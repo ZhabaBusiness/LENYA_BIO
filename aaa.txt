@@ -21,7 +21,7 @@
 	}
 </style>
     <!-- <h1>Hello, world!</h1> -->
-    <div style="display: flex;justify-content: center;padding-right: 0px;margin-left: 0px;margin-top: 20px">
+    <div style="display: flex;justify-content: center;padding-right: 0px;margin-left: 50px;margin-top: 20px">
       <img src="kk45.jpg" width="950px" height="80px" alt="">
     </div>
     <div class="container">
